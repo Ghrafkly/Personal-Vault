@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6e9a611e8bd89077",
+        "id": "8917ffe61bdb3284",
         "type": "tabs",
         "children": [
           {
-            "id": "cee6e22910a19d84",
+            "id": "59adfb8783a6859e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Family/Dad/Rovers Life Nom.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Family/Dad/Rovers Life Nom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Family/Dad/Rovers Life Nom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Family/Dad/Rovers Life Nom.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,9 +128,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "2f98a33e41871be7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -156,11 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cee6e22910a19d84",
+  "active": "2f98a33e41871be7",
   "lastOpenFiles": [
+    "Personal/Family/Dad/Rovers Life Nom.md",
     "Personal/Family/Dad",
     "Personal/Code/Go/Goroutines.md",
-    "Personal/Family/Dad/Rovers Life Nom.md",
     "Personal/Family",
     "Personal/Code/Go/Channels.md",
     "Personal/Code/Go/Variadic Functions.md",
