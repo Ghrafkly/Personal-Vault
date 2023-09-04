@@ -1,9 +1,8 @@
 | Year | Contribution      |
 | ---- | ----------------- |
 | 2004 | Auskick           |
-|      | Coach             |
-|      | Manager           |
-|      |                   |
+| 2009 | Coach             |
+| 2010 | Coach             |
 | 2015 | Junior Secretary  |
 | 2016 | Junior Secretary  |
 | 2017 | Junior Secretary  |
@@ -13,5 +12,7 @@
 | 2023 | General Committee |
 
 **Other**
-Boundary umpiring
+Boundary umpiring for junior for a few years
+Team Manager for a few years
+
 
