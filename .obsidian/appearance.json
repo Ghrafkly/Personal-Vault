@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "baseFontSize": 17,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "codeblock"
+  ]
+}

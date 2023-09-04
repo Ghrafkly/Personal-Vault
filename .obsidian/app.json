@@ -1,0 +1,7 @@
+{
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true
+}
