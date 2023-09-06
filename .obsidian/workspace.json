@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea5991f45653f132",
+        "id": "68e6eefab4cc6e75",
         "type": "tabs",
         "children": [
           {
-            "id": "97f2831d6b04aaeb",
+            "id": "a7bb786629c54051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Family/Dad/Rovers Life Nom.md",
+                "file": "Personal/Code/Go/Goroutines.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Family/Dad/Rovers Life Nom.md",
+                "file": "Personal/Code/Go/Goroutines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Family/Dad/Rovers Life Nom.md",
+                "file": "Personal/Code/Go/Goroutines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Family/Dad/Rovers Life Nom.md"
+                "file": "Personal/Code/Go/Goroutines.md"
               }
             }
           },
@@ -154,25 +154,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "97f2831d6b04aaeb",
+  "active": "a7bb786629c54051",
   "lastOpenFiles": [
-    "Uni/Software testing, quality and standards/Module 1.md",
+    "Personal/Code/Go/Channels.md",
     "Personal/Family/Dad/Rovers Life Nom.md",
     "Personal/Family/Dad",
     "Personal/Code/Go/Goroutines.md",
     "Personal/Family",
-    "Personal/Code/Go/Channels.md",
     "Personal/Code/Go/Variadic Functions.md",
+    "Uni/Software testing, quality and standards/Module 1.md",
     "---.md",
     "Personal/Untitled.md",
     "Personal/Code/Go",
