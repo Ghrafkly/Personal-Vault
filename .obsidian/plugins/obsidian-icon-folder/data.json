@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiNote",
       "FasHouseChimney",
       "CiGopher-colour",
       "CiGopher",
-      "FabGolang",
-      "RiCode-s-slash-fill"
+      "FabGolang"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,7 +24,6 @@
   },
   "Uni": "RiGraduation-cap-fill",
   "Uni/Software testing, quality and standards": "TiTestPipe",
-  "Uni/Software testing, quality and standards/Module 1.md": "TiNotes",
   "Personal": "RiUser-3-fill",
   "Personal/Code": "RiCode-s-slash-fill",
   "Personal/Code/Go": "CiGopher-colour",
