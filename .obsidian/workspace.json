@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "68e6eefab4cc6e75",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a7bb786629c54051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "8cc36c82c155880c",
         "type": "tabs",
         "children": [
@@ -87,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "b4bdfbce35d6d0d9",
@@ -103,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Notes.md",
+                "file": "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Notes.md",
+                "file": "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Notes.md"
+                "file": "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md"
               }
             }
           },
@@ -164,11 +147,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,24 +166,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7bb786629c54051",
+  "active": "f9070b2f8e848134",
   "lastOpenFiles": [
-    "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md",
     "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Notes.md",
+    "Uni/Software testing, quality and standards/1. Modules/Module 1.md",
+    "Uni/Software testing, quality and standards/1. Modules/Module 2.md",
+    "Uni/Software testing, quality and standards/1. Modules/Module 3.md",
+    "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md",
     "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Untitled",
     "Uni/Software testing, quality and standards/2. Assessments/Assessment 1",
     "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/attachments/1. Marking Guide.png",
     "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/attachments",
-    "Uni/Software testing, quality and standards/1. Modules/Module 1.md",
     "Uni/Software testing, quality and standards/2. Assessments",
-    "Uni/Software testing, quality and standards/1. Modules/Module 2.md",
     "Uni/Software testing, quality and standards/1. Modules",
     "[[Module.md",
     "Uni/Software testing, quality and standards/1. Modules/attachments/2. Triangle Test.png",
     "Uni/Software testing, quality and standards/1. Modules/attachments/2. V-Model.png",
     "Uni/Software testing, quality and standards/attachments/Pasted image 20230908183915.png",
     "Uni/Software testing, quality and standards/1. Modules/attachments/1. Methodologies.png",
-    "Uni/Software testing, quality and standards/1. Modules/Module 3.md",
     "Personal/Code/Go/Channels.md",
     "Personal/Code/Go/Goroutines.md",
     "Personal/Family/Dad/Rovers Life Nom.md",
