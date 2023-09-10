@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md",
+                "file": "Personal/Code/Go/Channels.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "right": {
     "id": "b4bdfbce35d6d0d9",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md",
+                "file": "Personal/Code/Go/Channels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md",
+                "file": "Personal/Code/Go/Channels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md"
+                "file": "Personal/Code/Go/Channels.md"
               }
             }
           },
@@ -166,13 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9070b2f8e848134",
+  "active": "0daec8a46c4e6380",
   "lastOpenFiles": [
+    "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md",
     "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Notes.md",
     "Uni/Software testing, quality and standards/1. Modules/Module 1.md",
     "Uni/Software testing, quality and standards/1. Modules/Module 2.md",
     "Uni/Software testing, quality and standards/1. Modules/Module 3.md",
-    "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md",
     "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Untitled",
     "Uni/Software testing, quality and standards/2. Assessments/Assessment 1",
     "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/attachments/1. Marking Guide.png",
