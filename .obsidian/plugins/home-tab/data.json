@@ -24,8 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Personal/Code/Go/Channels.md",
+      "timestamp": 1694401462928
+    },
+    {
+      "filepath": "Personal/Code/Go/Goroutines.md",
+      "timestamp": 1694401462380
+    },
+    {
+      "filepath": "Personal/Code/Go/Variadic Functions.md",
+      "timestamp": 1694401461723
+    },
+    {
       "filepath": "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md",
-      "timestamp": 1694400874941
+      "timestamp": 1694401376935
     }
   ],
   "starredFileStore": [],

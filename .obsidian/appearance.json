@@ -29,5 +29,7 @@
     "template-timeline",
     "template-tasks"
   ],
-  "interfaceFontFamily": "quicksand"
+  "interfaceFontFamily": "Quicksand",
+  "textFontFamily": "Quicksand",
+  "monospaceFontFamily": "FiraMono Nerd Font"
 }
