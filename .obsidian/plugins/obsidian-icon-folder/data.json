@@ -27,5 +27,13 @@
   "Personal": "RiUser-3-fill",
   "Personal/Code": "RiCode-s-slash-fill",
   "Personal/Code/Go": "CiGopher-colour",
-  "Personal/Family": "FasHouseChimney"
+  "Personal/Family": "FasHouseChimney",
+  "Uni/Software testing, quality and standards/1. Modules/attachments": {
+    "iconName": null,
+    "inheritanceIcon": "LiImage"
+  },
+  "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/attachments": {
+    "iconName": null,
+    "inheritanceIcon": "LiImage"
+  }
 }

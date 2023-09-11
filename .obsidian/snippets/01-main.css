@@ -852,31 +852,31 @@ background: transparent !important;
 
 /* Normal */
 .mod-right-split .workspace-tabs:not(.mod-top) .workspace-tab-header-container {
-  display: none;
+  display: flex;
 }
 
 .mod-right-split .workspace-leaf-content[data-type=calendar] .view-content {
-  margin-top: 0px !important;
+  margin: 8px 8px 0px 8px !important;
 }
 
 /* Hover */
-.mod-right-split:hover .workspace-tabs:not(.mod-top) .workspace-tab-header-container {
+/* .mod-right-split:hover .workspace-tabs:not(.mod-top) .workspace-tab-header-container {
   display: flex;
 }
 
 .mod-right-split:hover .workspace-leaf-content[data-type=calendar] .view-content {
   margin: 8px 8px 0px 8px !important;
-}
+} */
 
 /* Weather Plugin */
 .mod-right-split .workspace-tabs:not(.mod-top) .obsidian-weather-plugin {
-  margin-top: 0px;
+  margin-top: var(--layout-margin);
 }
 
 /* Hover */
-.mod-right-split:hover .workspace-tabs:not(.mod-top) .obsidian-weather-plugin {
+/* .mod-right-split:hover .workspace-tabs:not(.mod-top) .obsidian-weather-plugin {
   margin-top: var(--layout-margin);
-}
+} */
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
 /* ║ Hover                    ║ Sidebar (Left) Hover                                                                    ║ */
@@ -919,12 +919,12 @@ background: transparent !important;
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 .mod-right-split .workspace-tab-header-container-inner {
-  opacity: 0;
-}
-
-.mod-right-split:hover .workspace-tab-header-container-inner {
   opacity: 1 !important;
 }
+
+/* .mod-right-split:hover .workspace-tab-header-container-inner {
+  opacity: 1 !important;
+} */
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
 /* ║ Hover                    ║ Menu Dock                                                                               ║ */
