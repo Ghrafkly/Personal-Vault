@@ -78,7 +78,7 @@
       {
         "id": "aec103593738104e",
         "type": "tabs",
-        "dimension": 56.106321839080465,
+        "dimension": 38.99151273090365,
         "children": [
           {
             "id": "ea20c854afe20d92",
@@ -137,28 +137,28 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "2f98a33e41871be7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "1bbeeef82e516f85",
         "type": "tabs",
-        "dimension": 43.89367816091954,
+        "dimension": 61.00848726909636,
         "children": [
           {
             "id": "064ae853ca0524dd",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f98a33e41871be7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
@@ -191,8 +191,9 @@
   },
   "active": "b7346cc1137163bf",
   "lastOpenFiles": [
-    "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/attachments/1. Test Example.png",
+    "2023-09-11.md",
     "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Notes.md",
+    "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/attachments/1. Test Example.png",
     "Uni/Software testing, quality and standards/2. Assessments/Assessment 1/Assessment 1 - Outline.md",
     "Uni/Software testing, quality and standards/1. Modules/Module 2.md",
     "Personal/Code/Go/Channels.md",

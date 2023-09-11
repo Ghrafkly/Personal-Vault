@@ -4,4 +4,5 @@
 3. Table format is the way to go for your test cases. Your format looks good. I add Precondition and expected Postcondition, as well as a Test name in addition to the Test ID
 4. Test Strategies - I took these from the recommended readings. One in particular (Strong Robust Equivalence Testing) is a good one to consider if you haven't already.
 
+### Example of test cases
 ![[1. Test Example.png]]
