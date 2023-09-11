@@ -1,5 +1,5 @@
 {
-  "accentColor": "#cd0952",
+  "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Minimal",
   "baseFontSize": 16,
@@ -29,5 +29,5 @@
   ],
   "interfaceFontFamily": "Quicksand",
   "textFontFamily": "Quicksand",
-  "monospaceFontFamily": "FiraMono Nerd Font"
+  "monospaceFontFamily": "JetBrains Mono NL"
 }
