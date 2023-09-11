@@ -14,7 +14,6 @@
     "04-testing",
     "addon-folder-descriptions",
     "addon-folder-hide-numbers",
-    "addon-folder-highlight",
     "template-buttons",
     "template-cards",
     "template-colors",
@@ -24,8 +23,8 @@
     "template-infobox",
     "template-layout",
     "template-message",
-    "template-timeline",
-    "template-tasks"
+    "template-tasks",
+    "template-timeline"
   ],
   "interfaceFontFamily": "Quicksand",
   "textFontFamily": "Quicksand",

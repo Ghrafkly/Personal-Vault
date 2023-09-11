@@ -4,6 +4,7 @@
   "showLineNumber": true,
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": true,
-  "showUnsupportedFiles": true
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true,
+  "foldHeading": true
 }
