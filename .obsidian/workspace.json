@@ -144,6 +144,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "064ae853ca0524dd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -163,7 +171,6 @@
       "obsidian-custom-frames:Open Google Maps": false,
       "obsidian-custom-frames:Open Google Contacts": false,
       "obsidian-custom-frames:Open Language Tool": false,
-      "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,

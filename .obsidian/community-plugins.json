@@ -18,10 +18,12 @@
   "editing-toolbar",
   "highlightr-plugin",
   "home-tab",
-  "homepage",
   "obsidian-columns",
   "remember-cursor-position",
   "simple-embeds",
   "obsidian-smart-typography",
-  "obsidian-sortable"
+  "obsidian-sortable",
+  "file-explorer-note-count",
+  "obsidian-plugin-groups",
+  "calendar"
 ]
