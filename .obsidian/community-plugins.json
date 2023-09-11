@@ -9,5 +9,19 @@
   "obsidian-emoji-toolbar",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-admonition",
-  "obsidian-git"
+  "obsidian-git",
+  "better-word-count",
+  "buttons",
+  "callout-manager",
+  "cmdr",
+  "obsidian-custom-frames",
+  "editing-toolbar",
+  "highlightr-plugin",
+  "home-tab",
+  "homepage",
+  "obsidian-columns",
+  "remember-cursor-position",
+  "simple-embeds",
+  "obsidian-smart-typography",
+  "obsidian-sortable"
 ]

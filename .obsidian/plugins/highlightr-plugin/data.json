@@ -1,0 +1,20 @@
+{
+  "highlighterStyle": "rounded",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "Red": "#CD0952",
+    "Green": "#09CD85",
+    "Yellow": "#FFD861",
+    "Orange": "#E25B40",
+    "Blue": "#6189FF",
+    "Purple": "#B061FF"
+  },
+  "highlighterOrder": [
+    "Red",
+    "Green",
+    "Yellow",
+    "Orange",
+    "Blue",
+    "Purple"
+  ]
+}

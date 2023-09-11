@@ -154,6 +154,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "obsidian-custom-frames:Open Google Tasks": false,
+      "obsidian-custom-frames:Open DeepL": false,
+      "obsidian-custom-frames:Open Wikipedia": false,
+      "obsidian-custom-frames:Open Google Keep": false,
+      "obsidian-custom-frames:Open Google Maps": false,
+      "obsidian-custom-frames:Open Google Contacts": false,
+      "obsidian-custom-frames:Open Language Tool": false,
+      "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
