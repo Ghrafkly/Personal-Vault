@@ -21,5 +21,13 @@
   "minimal-style@@maximize-tables-off": "maximize-tables-off",
   "minimal-style@@h2-style": "normal",
   "minimal-style@@h3-variant": "small-caps",
-  "minimal-style@@h2-variant": "small-caps"
+  "minimal-style@@h2-variant": "small-caps",
+  "minimal-style@@link-color@@light": "#8F8963",
+  "minimal-style@@link-color@@dark": "#8F8963",
+  "minimal-style@@link-external-color@@dark": "#8F8963",
+  "minimal-style@@link-external-color@@light": "#8F8963",
+  "minimal-style@@link-color-hover@@dark": "#DEDABC",
+  "minimal-style@@link-external-color-hover@@dark": "#DEDABC",
+  "minimal-style@@link-external-color-hover@@light": "#DEDABC",
+  "minimal-style@@link-color-hover@@light": "#DEDABC"
 }
