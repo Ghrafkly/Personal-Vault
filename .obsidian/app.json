@@ -3,5 +3,6 @@
   "showFrontmatter": true,
   "showLineNumber": true,
   "attachmentFolderPath": "./attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true
 }
