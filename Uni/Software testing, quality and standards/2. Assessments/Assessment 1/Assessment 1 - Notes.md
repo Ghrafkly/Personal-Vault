@@ -7,3 +7,7 @@
 ### Example of test cases
 ![[1. Test Example.png]]
 
+## Bugs
+
+Letters will be marked ? when all spots they exist in are already marked. Issue with the image is the r being marked in whirr and berry
+![[1. Bug 1.png|300]]
