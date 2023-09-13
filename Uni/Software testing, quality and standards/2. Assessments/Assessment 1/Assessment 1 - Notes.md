@@ -28,17 +28,29 @@ Letters will be marked ? when all spots they exist in are already marked. Issue 
 ## Equivalence Class Testing
 ![[Pasted image 20230913202100.png]]
 ![[Pasted image 20230913202127.png]]
-
-
-
-
-
-
-
-
-
-
-
-
+![[Pasted image 20230913202144.png]]
+![[Pasted image 20230913202224.png]]
+![[Pasted image 20230913202246.png]]
+![[Pasted image 20230913202259.png]]
+![[Pasted image 20230913202326.png]]
 
 ## Decision Table Testing
+![[Pasted image 20230913202400.png]]
+![[Pasted image 20230913202417.png]]
+![[Pasted image 20230913202441.png]]
+![[Pasted image 20230913202602.png]]
+![[Pasted image 20230913202646.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
