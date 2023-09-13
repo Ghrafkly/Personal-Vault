@@ -15,8 +15,30 @@ Letters will be marked ? when all spots they exist in are already marked. Issue 
 ## Functional Testing
 ### Boundary Value testing
 - Rationale: errors tend to occur near the boundary values for an input variable
+![[Pasted image 20230913201455.png]]
+![[Pasted image 20230913201530.png]]
+![[Pasted image 20230913201720.png]]
+![[Pasted image 20230913201641.png]]
+![[Pasted image 20230913201739.png]]
+![[Pasted image 20230913201807.png]]
+![[Pasted image 20230913201843.png]]
+![[Pasted image 20230913201900.png]]
+![[Pasted image 20230913201915.png]]
 
 ## Equivalence Class Testing
+![[Pasted image 20230913202100.png]]
+![[Pasted image 20230913202127.png]]
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Decision Table Testing
