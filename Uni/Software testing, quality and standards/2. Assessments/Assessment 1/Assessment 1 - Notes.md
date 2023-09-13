@@ -13,8 +13,8 @@ Letters will be marked ? when all spots they exist in are already marked. Issue 
 ![[1. Bug 1.png|300]]
 
 ## Functional Testing
-[Functional Testing](https://www.youtube.com/watch?v=10GMNDOjpYU)
-3:30 "Any verification of the requirement is functional testing"
+### Boundary Value testing
+- Rationale: errors tend to occur near the boundary values for an input variable
 
 ## Equivalence Class Testing
 
