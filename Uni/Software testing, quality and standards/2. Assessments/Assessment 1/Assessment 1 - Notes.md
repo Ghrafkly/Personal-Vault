@@ -11,3 +11,12 @@
 
 Letters will be marked ? when all spots they exist in are already marked. Issue with the image is the r being marked in whirr and berry
 ![[1. Bug 1.png|300]]
+
+## Functional Testing
+[Functional Testing](https://www.youtube.com/watch?v=10GMNDOjpYU)
+3:30 "Any verification of the requirement is functional testing"
+
+## Equivalence Class Testing
+
+
+## Decision Table Testing
