@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "297542c70136ff9b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ef9404dc1a61be4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-17 10.50.48.excalidraw.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "d548c19cbc3bbd73",
         "type": "tabs",
         "children": [
