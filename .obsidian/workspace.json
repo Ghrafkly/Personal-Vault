@@ -19,9 +19,11 @@
             "id": "d00d21398221e680",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Uni/Web Application Development/1. Modules/Module 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Uni/Web Application Development/1. Modules/Module 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Uni/Web Application Development/1. Modules/Module 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Uni/Web Application Development/1. Modules/Module 1.md"
+              }
             }
           },
           {
@@ -204,6 +210,9 @@
   },
   "active": "d00d21398221e680",
   "lastOpenFiles": [
+    "Uni/Web Application Development/1. Modules",
+    "Uni/Web Application Development/1. Modules/Module 1.md",
+    "Uni/Web Application Development",
     "Personal/Code/Go/Profiler.md",
     "Personal/Code/Go/Goroutines.md",
     "Personal/Code/Go/Variadic Functions.md",
@@ -236,7 +245,6 @@
     "Uni/Software testing, quality and standards/2. Assessments",
     "Uni/Software testing, quality and standards/1. Modules",
     "[[Module.md",
-    "Personal/Family/Dad",
     "---.md",
     "Personal/Untitled.md",
     "Add a NaNoWriMon to your vault.md",

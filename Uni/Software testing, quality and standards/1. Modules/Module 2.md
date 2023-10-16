@@ -42,7 +42,7 @@ We know a triangle with equals lengths will make an equilateral triangle. But in
 
 ![[2. Triangle Test.png]]
 
-When performing [[Module 1#Black Box Testing|Black Box Testing]] we have no knowledge of the internal structure and are testing the behaviour of the software not how it solves a problem.
+When performing [[Uni/Software testing, quality and standards/1. Modules/Module 1#Black Box Testing|Black Box Testing]] we have no knowledge of the internal structure and are testing the behaviour of the software not how it solves a problem.
 
 ## Black Box Testing Techniques
 
