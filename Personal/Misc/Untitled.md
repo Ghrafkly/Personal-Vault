@@ -11,4 +11,4 @@ Health being a social construct
 
 Old World/New World enforcement of roles; Religion; Magazines; Pop-culture
 
-Anatagonisti
+Antagonist
