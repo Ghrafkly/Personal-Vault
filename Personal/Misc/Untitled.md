@@ -7,4 +7,7 @@ Health being a social construct
 
 ![[Pasted image 20231018141628.png|500]]
 
- 
+Old World/New World enforcement of roles; Religion; Magazines; Pop-culture
+
+Training: Domination/Submission; Responsibility
+
