@@ -7,4 +7,4 @@ Pass/Credit
 D/HD
 - [x] Research and list five different IDEs currently used in the Agile software development industry
 - [x] Briefly discuss five core features of Visual Studio  Community Edition as an IDE
-- [ ] Screenshots of a running ASP.NET MVC Web Application along with database schema and code 
+- [x] Screenshots of a running ASP.NET MVC Web Application along with database schema and code 
