@@ -8,3 +8,13 @@ D/HD
 - [x] Research and list five different IDEs currently used in the Agile software development industry
 - [x] Briefly discuss five core features of Visual Studio  Community Edition as an IDE
 - [x] Screenshots of a running ASP.NET MVC Web Application along with database schema and code 
+
+# Module 2
+Pass/Credit
+- [ ] Screenshot of “Step 9” in the instructions 
+- [ ] Git repository URL in Efolio
+- [ ] Screenshots of a running ASP.NET MVC Web Application along with database schema and code in Git 
+
+D/HD
+- [ ] Document containing your GitHub username and project URL of private repository
+- [ ] Screenshots of a running ASP.NET MVC Web Application along with database schema and code in Git
