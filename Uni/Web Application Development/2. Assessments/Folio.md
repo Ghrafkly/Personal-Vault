@@ -28,4 +28,4 @@ Pass/Credit
 
 D/HD
 - [x] A screenshot demonstrating uses of Bootstrap date picker (with 20th August set as a default date)
-- [ ] A document explaining what jQuery unobtrusive validation is and how it works in combination with ViewModels.
+- [x] A document explaining what jQuery unobtrusive validation is and how it works in combination with ViewModels.
