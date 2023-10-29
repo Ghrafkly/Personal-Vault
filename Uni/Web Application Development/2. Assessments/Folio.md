@@ -13,8 +13,8 @@ D/HD
 Pass/Credit
 - [x] Screenshot of “Step 9” in the instructions 
 - [x] Git repository URL in Efolio
-- [ ] Screenshots of a running ASP.NET MVC Web Application along with database schema and code in Git 
+- [ ] Model First
 
 D/HD
 - [ ] Document containing your GitHub username and project URL of private repository
-- [ ] Screenshots of a running ASP.NET MVC Web Application along with database schema and code in Git
+- [ ] Code First
