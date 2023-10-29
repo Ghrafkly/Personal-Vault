@@ -21,11 +21,11 @@ D/HD
 
 # Module 3
 Pass/Credit
-- [ ] Screenshot of a website using Notify.js and code
-- [ ] A document explaining the difference between defer and async, provide examples of scenario of using it
-- [ ] Screenshots showing your week 5A application running with validation on “Create” page
-- [ ] Screenshot of your code for FormOneViewModel class.
+- [x] Screenshot of a website using Notify.js and code
+- [x] A document explaining the difference between defer and async, provide examples of scenario of using it
+- [x] Screenshots showing your week 5A application running with validation on “Create” page
+- [x] Screenshot of your code for FormOneViewModel class.
 
 D/HD
-- [ ] A screenshot demonstrating uses of Bootstrap date picker (with 20th August set as a default date)
-- [ ] A document explaining what jQuery unobstructed validation is and how it works in combination with ViewModels.
+- [x] A screenshot demonstrating uses of Bootstrap date picker (with 20th August set as a default date)
+- [ ] A document explaining what jQuery unobtrusive validation is and how it works in combination with ViewModels.
