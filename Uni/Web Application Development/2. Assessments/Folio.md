@@ -11,8 +11,8 @@ D/HD
 
 # Module 2
 Pass/Credit
-- [ ] Screenshot of “Step 9” in the instructions 
-- [ ] Git repository URL in Efolio
+- [x] Screenshot of “Step 9” in the instructions 
+- [x] Git repository URL in Efolio
 - [ ] Screenshots of a running ASP.NET MVC Web Application along with database schema and code in Git 
 
 D/HD
