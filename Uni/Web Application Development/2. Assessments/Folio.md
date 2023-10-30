@@ -13,7 +13,7 @@ D/HD
 Pass/Credit
 - [x] Screenshot of “Step 9” in the instructions 
 - [x] Git repository URL in eFolio
-- [ ] Model First
+- [x] Model First
 
 D/HD
 - [ ] Document containing your GitHub username and project URL of private repository
