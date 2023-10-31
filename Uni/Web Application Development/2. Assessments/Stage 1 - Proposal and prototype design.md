@@ -54,6 +54,7 @@ In this first stage, you will complete and submit a report documenting your prop
 # Mock-up prototype design: 
 *Include unambiguous mock-up prototype design of three or more business requirements.*
 
+Colour options: https://huemint.com/bootstrap-basic/#palette=cadbfc-ffffff-131013-f9d129-a76f18-27a277
 
 High-level block diagram: Include a high-level block/functional diagram of your web application outlining the functionalities (three or more levels) of your web application. 
 Use case diagram: Include a use case diagram of your web application with two roles and three or more business requirements.
