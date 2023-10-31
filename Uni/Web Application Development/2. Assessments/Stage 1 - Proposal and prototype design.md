@@ -10,8 +10,20 @@ In this first stage, you will complete and submit a report documenting your prop
 **Users:** Admin, Organiser, User
 **Features:** 
 - Admins can
-	- approve organisers and bookings
-	- reject bookings
+	- approve/remove organisers and bookings
+	- reject bookings and organiser applications
+	- add/remove venues
+	- submit requests to adjust existing bookings
+- Organisers can
+	- submit approval for event bookings
+	- submit approval for deletion of events
+	- submit approval to adjust bookings
+- User can
+	- register to the webstie
+	- sign-up to events
+	- sign-up to email lists/notifications
+	- submit applications to become an organiser
+	- rate events
 
 
 High-level block diagram: Include a high-level block/functional diagram of your web application outlining the functionalities (three or more levels) of your web application. 
