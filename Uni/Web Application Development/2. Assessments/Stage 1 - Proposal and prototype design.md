@@ -51,8 +51,10 @@ In this first stage, you will complete and submit a report documenting your prop
 		- View organiser applications
 		- View list of organisers
 
+# Mock-up prototype design: 
+*Include unambiguous mock-up prototype design of three or more business requirements.*
+
 
 High-level block diagram: Include a high-level block/functional diagram of your web application outlining the functionalities (three or more levels) of your web application. 
 Use case diagram: Include a use case diagram of your web application with two roles and three or more business requirements.
 Validations: Explain how you will validate the success and failure of three or more business requirements.
-Mockup prototype design:** Include unambiguous mock-up prototype design of three or more business requirements.
