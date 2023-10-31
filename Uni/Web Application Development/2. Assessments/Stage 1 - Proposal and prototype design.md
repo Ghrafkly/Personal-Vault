@@ -5,7 +5,7 @@ In this first stage, you will complete and submit a report documenting your prop
 ## Web application title and description: 
 *Include the title of the web application you are creating. Be creative and be sure to include enough details so that anyone understands what this web application will do.*
 
-
+**Type:** Venue Booking Application
 
 
 
