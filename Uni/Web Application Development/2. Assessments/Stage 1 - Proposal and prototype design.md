@@ -52,7 +52,7 @@ In this first stage, you will complete and submit a report documenting your prop
 		- View list of organisers
 
 # Mock-up prototype design: 
-*Include unambiguous mock-up prototype design of three or more business requirements.*
+*Include unambiguous mock-up prototype design of three or more [[Assessment Overview#Deliverables/Requirements|business requirements]]
 
 Colour options: 
 BGY: https://huemint.com/bootstrap-basic/#palette=cadbfc-ffffff-131013-f9d129-a76f18-27a277
