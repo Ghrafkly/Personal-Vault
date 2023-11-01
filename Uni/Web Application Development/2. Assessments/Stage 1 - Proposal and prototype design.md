@@ -54,6 +54,16 @@ In this first stage, you will complete and submit a report documenting your prop
 ## Mock-up prototype design
 *Include unambiguous mock-up prototype design of three or more [[Assessment Overview#Deliverables/Requirements|business requirements]]
 
+**BR (D.1): Authentication using external API**
+**BR (B.1): Authentication**
+![[Pasted image 20231101145551.png]]
+
+**BR (D.2): Email**
+![[Pasted image 20231101145524.png]]
+
+**BR (C.3): Interactive table data**
+![[Pasted image 20231101145603.png]]
+
 Colour options: 
 BGY: https://huemint.com/bootstrap-basic/#palette=cadbfc-ffffff-131013-f9d129-a76f18-27a277
 Blue: https://huemint.com/bootstrap-basic/#palette=a9edfd-ffffff-131239-1a3244-3b4f63-669dac
