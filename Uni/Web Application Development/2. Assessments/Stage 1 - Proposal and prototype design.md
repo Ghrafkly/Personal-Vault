@@ -71,7 +71,7 @@ Green: https://huemint.com/bootstrap-basic/#palette=c0bddb-ffffff-00b16d-647e00-
 
 ## High-level block diagram
 Include a high-level block/functional diagram of your web application outlining the functionalities (three or more levels) of your web application. 
-
+![[Block Level Diagram.png]]
 ## Use case diagram
 Include a use case diagram of your web application with two roles and three or more business requirements.
 
