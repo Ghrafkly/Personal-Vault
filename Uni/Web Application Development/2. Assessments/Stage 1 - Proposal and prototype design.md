@@ -16,7 +16,7 @@ In this first stage, you will complete and submit a report documenting your prop
 	- submit requests to adjust existing bookings
 - Organisers can
 	- submit approval for event bookings
-	- submit approval for deletion of events
+	- submit approval for event bookings
 	- submit approval to adjust bookings
 - Users can
 	- sign-up to the website
