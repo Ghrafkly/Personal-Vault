@@ -74,6 +74,6 @@ Include a high-level block/functional diagram of your web application outlining 
 ![[Block Level Diagram.png]]
 ## Use case diagram
 Include a use case diagram of your web application with two roles and three or more business requirements.
-
+![[Use Case Diagram.png]]
 ## Validations
 Explain how you will validate the success and failure of three or more business requirements.
