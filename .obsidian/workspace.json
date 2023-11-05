@@ -11,9 +11,11 @@
             "id": "996238015caf47ef",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Uni/Web Application Development/2. Assessments/attachments/Use Case Diagram.png"
+                "file": "Uni/Web Application Development/2. Assessments/Assessment Overview.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/Web Application Development/2. Assessments/attachments/Use Case Diagram.png",
+                "file": "Uni/Web Application Development/2. Assessments/Assessment Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/Web Application Development/2. Assessments/attachments/Use Case Diagram.png",
+                "file": "Uni/Web Application Development/2. Assessments/Assessment Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/Web Application Development/2. Assessments/attachments/Use Case Diagram.png"
+                "file": "Uni/Web Application Development/2. Assessments/Assessment Overview.md"
               }
             }
           },
