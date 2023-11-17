@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc882a615bfad581",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-17 10.50.48.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/Web Application Development/2. Assessments/Pages for Web App.md",
+                "file": "Excalidraw/Drawing 2023-09-17 10.50.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/Web Application Development/2. Assessments/Pages for Web App.md",
+                "file": "Excalidraw/Drawing 2023-09-17 10.50.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/Web Application Development/2. Assessments/Pages for Web App.md"
+                "file": "Excalidraw/Drawing 2023-09-17 10.50.48.excalidraw.md"
               }
             }
           },
@@ -200,10 +211,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "996238015caf47ef",
+  "active": "dc882a615bfad581",
   "lastOpenFiles": [
-    "Uni/Web Application Development/2. Assessments/Stage 1 - Proposal and prototype design.md",
+    "Excalidraw/Drawing 2023-11-17 22.23.56.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-17 10.50.48.excalidraw.md",
     "Uni/Web Application Development/2. Assessments/Pages for Web App.md",
+    "Uni/Web Application Development/2. Assessments/Stage 1 - Proposal and prototype design.md",
     "Uni/Web Application Development/2. Assessments/Blazor Tutorials.md",
     "Uni/Web Application Development/2. Assessments/Assessment Overview.md",
     "Uni/Web Application Development/2. Assessments/Folio.md",
@@ -214,7 +227,6 @@
     "Uni/Web Application Development/2. Assessments/attachments/Pasted image 20231101145551.png",
     "Uni/Web Application Development/2. Assessments/attachments",
     "Uni/Web Application Development/1. Modules/Module 1.md",
-    "Excalidraw/Drawing 2023-09-17 10.50.48.excalidraw.md",
     "Personal/Misc/Untitled.md",
     "Personal/Misc/attachments/Pasted image 20231018141628.png",
     "Personal/Misc/attachments/Pasted image 20231018140629.png",
