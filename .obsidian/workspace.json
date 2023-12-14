@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f359ba0202b934a1",
+        "id": "423f545330d6d3b4",
         "type": "tabs",
         "children": [
           {
-            "id": "996238015caf47ef",
+            "id": "bd53788881a43873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Web Application Development/2. Assessments/Pages for Web App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc882a615bfad581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni/Software testing, quality and standards/1. Modules/Module 1.md",
+                "file": "Uni/Misc/Credit Application.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/Software testing, quality and standards/1. Modules/Module 1.md",
+                "file": "Uni/Misc/Credit Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/Software testing, quality and standards/1. Modules/Module 1.md",
+                "file": "Uni/Misc/Credit Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/Software testing, quality and standards/1. Modules/Module 1.md"
+                "file": "Uni/Misc/Credit Application.md"
               }
             }
           },
@@ -213,8 +200,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc882a615bfad581",
+  "active": "bd53788881a43873",
   "lastOpenFiles": [
+    "Uni/Misc/Credit Application.md",
+    "Uni/Misc",
+    "Uni/Software testing, quality and standards/1. Modules/Module 1.md",
     "Excalidraw/Drawing 2023-09-17 10.50.48.excalidraw.md",
     "Excalidraw/Drawing 2023-11-17 22.23.56.excalidraw.md",
     "Uni/Web Application Development/2. Assessments/Pages for Web App.md",
@@ -253,8 +243,6 @@
     "Personal/Code/Go/Channels.md",
     "Untitled 1",
     "Untitled",
-    "Test",
-    "Uni/Software testing, quality and standards/1. Modules/Module 1.md",
     "[[Module.md",
     "---.md",
     "Personal/Untitled.md",
