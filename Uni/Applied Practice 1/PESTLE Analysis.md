@@ -54,6 +54,7 @@ https://www.linkedin.com/pulse/pestle-analysis-digital-transformation-future-wor
 - Discrimination laws
 - Antitrust laws
 - Employment laws
+	- WFH protections and restrictions
 - Consumer protection laws
 	- Who can harvest your data
 - Copyright and patent laws
@@ -63,6 +64,10 @@ https://www.linkedin.com/pulse/pestle-analysis-digital-transformation-future-wor
 ### Environmental
 - Weather
 - Climate
+	- E-Waste in an ever increasing concern
+		- New phones pushed out each year
+		- Planned obsolescence
+		- Tech is hard or impossible to fix on purpose, unable to fix parts must get new item
 - Environmental policies
 - Climate change
 - Pressures from NGOs
