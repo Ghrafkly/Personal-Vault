@@ -1,4 +1,5 @@
 https://www.linkedin.com/pulse/pestle-analysis-digital-transformation-future-work-kelly-dowd-mba/
+https://www.simslifecycle.com/blog/2022/the-journey-of-eniac-the-worlds-first-computer/#:~:text=The%20world's%20first%20electronic%20digital,ushered%20in%20the%20Information%20Age.
 
 ### Political
 - Government policy
