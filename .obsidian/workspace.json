@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Misc/Credit Application.md",
+                "file": "Uni/Applied Practice 1/PESTLE Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "b4bdfbce35d6d0d9",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/Misc/Credit Application.md",
+                "file": "Uni/Applied Practice 1/PESTLE Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/Misc/Credit Application.md",
+                "file": "Uni/Applied Practice 1/PESTLE Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/Misc/Credit Application.md"
+                "file": "Uni/Applied Practice 1/PESTLE Analysis.md"
               }
             }
           },
@@ -143,7 +144,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -203,6 +206,8 @@
   "active": "bd53788881a43873",
   "lastOpenFiles": [
     "Uni/Misc/Credit Application.md",
+    "Uni/Applied Practice 1/PESTLE Analysis.md",
+    "Uni/Applied Practice 1",
     "Uni/Misc",
     "Uni/Software testing, quality and standards/1. Modules/Module 1.md",
     "Excalidraw/Drawing 2023-09-17 10.50.48.excalidraw.md",
@@ -242,12 +247,10 @@
     "2023-09-11.md",
     "Personal/Code/Go/Channels.md",
     "Untitled 1",
-    "Untitled",
     "[[Module.md",
     "---.md",
     "Personal/Untitled.md",
     "Add a NaNoWriMon to your vault.md",
-    "2023-08-30.md",
     "Untitled.canvas"
   ]
 }
