@@ -8,6 +8,7 @@ https://www.vice.com/en/article/g5y37j/thousands-of-software-engineers-say-the-j
 	- Regulations have been introduced such as GDPR and CCPA
 	- Encourage tech growth while also attempting to maintain control over it
 	- https://gdpr.eu/what-is-gdpr/
+	- https://www.mindk.com/blog/how-to-make-your-software-gdpr-compliant/
 - Political stability
 	- Privacy concerns if governments are to change; elections, coups
 - Corruption
