@@ -7,10 +7,12 @@ https://www.vice.com/en/article/g5y37j/thousands-of-software-engineers-say-the-j
 - Government policy
 	- Regulations have been introduced such as GDPR and CCPA
 	- Encourage tech growth while also attempting to maintain control over it
+	- https://gdpr.eu/what-is-gdpr/
 - Political stability
 	- Privacy concerns if governments are to change; elections, coups
 - Corruption
 - Foreign trade policy
+	- Effects development of software
 - Tax policy
 - Labour law
 - Trade restrictions
