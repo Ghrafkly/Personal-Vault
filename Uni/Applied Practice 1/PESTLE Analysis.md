@@ -1,6 +1,8 @@
-https://www.linkedin.com/pulse/pestle-analysis-digital-transformation-future-work-kelly-dowd-mba/
-https://www.simslifecycle.com/blog/2022/the-journey-of-eniac-the-worlds-first-computer/#:~:text=The%20world's%20first%20electronic%20digital,ushered%20in%20the%20Information%20Age. ← ENIAC
+https://www.linkedin.com/pulse/pestle-analysis-digital-transformation-future-work-kelly-dowd-mba/ ← PESTLE points
 https://explodingtopics.com/blog/data-generated-per-day ← Data generated
+https://www.mindonmap.com/blog/pestel-analysis-for-it-industry/
+https://www.vice.com/en/article/g5y37j/thousands-of-software-engineers-say-the-job-market-is-getting-much-worse?utm_source=reddit.com
+
 ### Political
 - Government policy
 	- Regulations have been introduced such as GDPR and CCPA
