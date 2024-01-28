@@ -38,6 +38,7 @@ Root-kits
 * Kernel-mode
 	* Runs in ring 0
 	* Highest operating system privileges
+		* Can be thought of as exceeding administrator access
 		* Can subvert, or cloak itself from anti-virus software and other virus detection techniques
 		* Even if it is detected, can be very difficult if not impossible to remove
 	* Can modify the operating system itself
@@ -78,7 +79,9 @@ Root-kits
 "When searching for the advantages of rootkits, the top results were all why the were bad"
 
 ### My position
-* Cyber-security is a constant race between attackers and defenders to find the next hack, and either exploit it or fix it. Due to this
+* Cyber-security is a constant race between attackers and defenders to find the next hack, and either exploit it or fix it. Due to this, cyber-security professionals have to remain proactive in developing tools, software, and techniques to protect against attackers. This means investigating and developing their own rootkits to research potential attack vectors, come up with novel solutions for defending, or even to use proactively against the attackers.
+* The main issue comes from its increasing use in everyday computers and other similar devices. Hardware and software manufacturers like Microsoft, Apple, Samsung etc. are developing rootkits that come with your computers, phones, and other IoT devices. These rootkits are meant to provide better safety and security for users. In Apple's case, they also have a history of using hardware level rootkits to make third-party repairs very difficult, if not impossible. This forces users to have to buy a new phone, instead of fixing the small issue with their existing one.
+* These rootkits can also be targets for attack as they provide very low-level access to the systems. If breached, the users device will be in control of malicious actors without them knowing. Even if they do discover the problem, they would have to dispose of the device.
 
 
 ### **References**
@@ -90,5 +93,6 @@ Root-kits
 | ENISA. (2022, November 29). _Rootkits_. https://www.enisa.europa.eu/topics/incident-response/glossary/rootkits                                                                                                                                                                   | (ENISA, 2022)                   |
 | Moes, T. (2024, January). Rootkit Examples (2024): The 7 Worst Attacks of All Time. _Software Lab_. January 2024, https://softwarelab.org/blog/rootkit-examples/                                                                                                                 | (Moes, 2024)                    |
 | Fruhlinger, J. (2022, August 31). _Stuxnet explained: The first known cyberweapon_. CSO Online. https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html#:~:text=Stuxnet%20is%20a%20powerful%20computer,about%20its%20design%20and%20purpose. | (Fruhlinger, 2022)              |
-| Modine, A. (2008, October 10). _Organized crime tampers with European card swipe devices_. The Register® - Biting the hand that feeds IT. https://www.theregister.com/2008/10/10/organized_crime_doctors_chip_and_pin_machines/                                                                                                                                                                                                                                                                                 | (Modine, 2008)                                |
+| Modine, A. (2008, October 10). _Organized crime tampers with European card swipe devices_. The Register® - Biting the hand that feeds IT. https://www.theregister.com/2008/10/10/organized_crime_doctors_chip_and_pin_machines/                                                  | (Modine, 2008)                  |
+| Jeffreys, H. (2021, September 28). _IPhone 13 a repair nightmare - teardown and repair assessment_. YouTube. https://www.youtube.com/watch?v=8s7NmMl_-yg                                                                                                                                                                                                                                                                                 | (Jeffreys, 2021)                                |
 
