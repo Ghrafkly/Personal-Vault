@@ -24,15 +24,20 @@ Root-kits
 * Stuxnet
 	* Designed by US and Israel intelligence agencies around 2010 to disable to Iranian Nuclear Program. 
 		* Would check if the system was connected to certain models of PLC's (programmable logic controller), then would modify the PLC parameters to spin the uranium enriching centrifuges at irregular speeds. This would damage or even destroy the centrifuge.
-		* As the attack was ongoing, Stuxnet
+		* As the attack was ongoing, Stuxnet would have the PLC tell the computer that nothing was wrong, allowing it to operate undetected until it was too late.
+		* The facility targeted was Natanz. It is expected that centrifuges become damaged, and at a facility like Natanz there would be an expectation of around 800 centrifuges being rendered inoperable a year. However, due to Stuxnet this number was around 2000.
 	* Exploited zero-day exploits in Windows
 	* Accidentally spread to computers outside of the original air-gapped system
 	* First known large-scale cyberweapon
+	* Kernel and user mode root-kits
+	* Discovered as it unexpectedly spread beyond the Natanz facility. While it is not clear how this occurred, the US believed that this was due to modifications made to the code by the Israelis. Alternatively, it may have spread due to weak cyber-security practices at Natanz.
+	* Stuxnet still exists, but due to a decade of cyber security improvements it no longer poses a threat.
 
 ### **Advantages**
-
+* Can limit a foe's ability to develop technology i.e. Stuxnet
 
 ### **Disadvantages**
+* Weak implementation of anti-virus rootkits can result in making the user more susceptible to cyber attacks i.e. Sony BMG Copy Protection Rootkit
 
 ### Flavour bits
 "When searching for the advantages of rootkits, the top results were all why the were bad"
