@@ -19,6 +19,23 @@ Root-kits
 * Usually malicious
 * Masks its existence, very hard to detect
 * Removal can be difficult, if not impossible
+* Used for spying
+
+### Types of Rootkits
+* User-mode
+	* Runs in ring 3
+	* Can modify the standard behaviour of programs
+* Kernel-mode
+	* Runs in ring 0
+	* Highest operating system privileges
+		* Can subvert, or cloak itself from anti-virus software and other virus detection techniques
+		* Even if it is detected, can be very difficult if not impossible to remove
+	* Can modify the operating system itself
+	* Unrestricted security access
+	* Is much more complex, bugs are more often to occur
+		* Can result in 'good rootkits' becoming vectors for attacks i.e. Sony BMG Copy Protection Rootkit
+	* No part of a system that has a kernel-mode rootkit installed can be trusted
+	* To combat kernel-level rootkits, operating systems like Windows now implement mandatory signing of all kernel-level drivers. Makes it harder for rootkits to operate undetected and without oversight
 
 ### Famous Examples
 * Stuxnet
@@ -35,9 +52,14 @@ Root-kits
 
 ### **Advantages**
 * Can limit a foe's ability to develop technology i.e. Stuxnet
+* Prevents cheating, helps to maintain the integrity of online games
+* Can be used in anti-virus to better detect and remove viruses
 
 ### **Disadvantages**
 * Weak implementation of anti-virus rootkits can result in making the user more susceptible to cyber attacks i.e. Sony BMG Copy Protection Rootkit
+* Usually used by malicious parties to gain access to computers
+	* This can allow them to easily gain access to private and/or secure information
+	* 
 
 ### Flavour bits
 "When searching for the advantages of rootkits, the top results were all why the were bad"
