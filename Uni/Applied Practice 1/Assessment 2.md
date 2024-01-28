@@ -20,11 +20,21 @@ Root-kits
 * Masks its existence, very hard to detect
 * Removal can be difficult, if not impossible
 * Used for spying
+* Can be installed on anything digital
+	* Computers
+	* Power transformers
+	* Phones
+	* Speakers
+* Does not require internet access
+	* In certain cases, it could be installed on a machine that does not have access to the internet and reconfigure it so the rootkit can access the internet while the machine and use can't.
 
 ### Types of Rootkits
 * User-mode
 	* Runs in ring 3
 	* Can modify the standard behaviour of programs
+* Hypervisor
+	* Runs in ring 1
+	* Creates a virtual machine, where the rootkit can intercept all hardware and software calls made between the system and user
 * Kernel-mode
 	* Runs in ring 0
 	* Highest operating system privileges
@@ -36,6 +46,9 @@ Root-kits
 		* Can result in 'good rootkits' becoming vectors for attacks i.e. Sony BMG Copy Protection Rootkit
 	* No part of a system that has a kernel-mode rootkit installed can be trusted
 	* To combat kernel-level rootkits, operating systems like Windows now implement mandatory signing of all kernel-level drivers. Makes it harder for rootkits to operate undetected and without oversight
+* Firmware/Hardware rootkits
+	* Highly undetectable
+	* In cases of hardware rootkits, the hardware itself will have to be removed. This can be difficult as it might not be as something as easy as the motherboard or CPU, but a small section inside of them. Best practice is to dispose of the effected devices completely
 
 ### Famous Examples
 * Stuxnet
@@ -59,19 +72,23 @@ Root-kits
 * Weak implementation of anti-virus rootkits can result in making the user more susceptible to cyber attacks i.e. Sony BMG Copy Protection Rootkit
 * Usually used by malicious parties to gain access to computers
 	* This can allow them to easily gain access to private and/or secure information
-	* 
+* Can be hijacked to turn it malicious
 
 ### Flavour bits
 "When searching for the advantages of rootkits, the top results were all why the were bad"
 
+### My position
+* Cyber-security is a constant race between attackers and defenders to find the next hack, and either exploit it or fix it. Due to this
+
 
 ### **References**
-| References                                                                                                                                                       | In-text citation                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| Wikimedia Foundation. (2023, November 16). _Rootkit_. Wikipedia. https://en.wikipedia.org/wiki/Rootkit                                                           | (Wikipedia, 2023)               |
-| Shacklett, M. E., & Rosencrance, L. (2021, October 1). _What is a rootkit?_. Security. https://www.techtarget.com/searchsecurity/definition/rootkit              | (Shacklett & Rosencrance, 2021) |
-| Valve Corporation. (n.d.) *Rootkit Anti-Cheats*. Steam. https://store.steampowered.com/curator/31718523-Rootkit-Anti-Cheats/                                     | (Steam, n.d.)                   |
-| ENISA. (2022, November 29). _Rootkits_. https://www.enisa.europa.eu/topics/incident-response/glossary/rootkits                                                   | (ENISA, 2022)                   |
-| Moes, T. (2024, January). Rootkit Examples (2024): The 7 Worst Attacks of All Time. _Software Lab_. January 2024, https://softwarelab.org/blog/rootkit-examples/ | (Moes, 2024)                    |
-| Fruhlinger, J. (2022, August 31). _Stuxnet explained: The first known cyberweapon_. CSO Online. https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html#:~:text=Stuxnet%20is%20a%20powerful%20computer,about%20its%20design%20and%20purpose.                                                                                                                                                                 | (Fruhlinger, 2022)                                |
+| References                                                                                                                                                                                                                                                                       | In-text citation                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| Wikimedia Foundation. (2023, November 16). _Rootkit_. Wikipedia. https://en.wikipedia.org/wiki/Rootkit                                                                                                                                                                           | (Wikipedia, 2023)               |
+| Shacklett, M. E., & Rosencrance, L. (2021, October 1). _What is a rootkit?_. Security. https://www.techtarget.com/searchsecurity/definition/rootkit                                                                                                                              | (Shacklett & Rosencrance, 2021) |
+| Valve Corporation. (n.d.) *Rootkit Anti-Cheats*. Steam. https://store.steampowered.com/curator/31718523-Rootkit-Anti-Cheats/                                                                                                                                                     | (Steam, n.d.)                   |
+| ENISA. (2022, November 29). _Rootkits_. https://www.enisa.europa.eu/topics/incident-response/glossary/rootkits                                                                                                                                                                   | (ENISA, 2022)                   |
+| Moes, T. (2024, January). Rootkit Examples (2024): The 7 Worst Attacks of All Time. _Software Lab_. January 2024, https://softwarelab.org/blog/rootkit-examples/                                                                                                                 | (Moes, 2024)                    |
+| Fruhlinger, J. (2022, August 31). _Stuxnet explained: The first known cyberweapon_. CSO Online. https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html#:~:text=Stuxnet%20is%20a%20powerful%20computer,about%20its%20design%20and%20purpose. | (Fruhlinger, 2022)              |
+| Modine, A. (2008, October 10). _Organized crime tampers with European card swipe devices_. The Register® - Biting the hand that feeds IT. https://www.theregister.com/2008/10/10/organized_crime_doctors_chip_and_pin_machines/                                                                                                                                                                                                                                                                                 | (Modine, 2008)                                |
 
