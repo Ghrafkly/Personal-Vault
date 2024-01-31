@@ -75,6 +75,22 @@ Root-kits
 	* This can allow them to easily gain access to private and/or secure information
 * Can be hijacked to turn it malicious
 
+### Ethics
+- Ethic lenses
+	* The Rights Lens
+	* The Justice Lens
+	* The Utilitarian Lens
+	* The Common Good Lens
+	* The Virtue Lens
+	* The Care Ethics Lens
+* ACS Code of Conduct
+	* The Primacy of Public Interest
+	* The Enhancement of Quality of Life
+	* Honesty
+	* Competence
+	* Professional Development
+	* Professionalism
+
 ### Flavour bits
 "When searching for the advantages of rootkits, the top results were all why the were bad"
 
