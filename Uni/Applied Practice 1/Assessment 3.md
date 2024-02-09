@@ -22,9 +22,10 @@ https://throughput.world/blog/ai-in-supply-chain-and-logistics/
 - Enhanced Safety
 	- Analyse workplace safety data and come up with safer methods
 - Reduced Operation Costs
-		- 
+	- Reduce manual effort
+	- Remove operational bottlenecks
 - On-time delivery
-	- 
+	- As above, facilitate on-time delivery
 
 https://www.youtube.com/watch?v=nSEAVsbSTIM
 
