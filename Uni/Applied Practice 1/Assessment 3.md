@@ -28,6 +28,26 @@ https://throughput.world/blog/ai-in-supply-chain-and-logistics/
 	- As above, facilitate on-time delivery
 
 https://www.youtube.com/watch?v=nSEAVsbSTIM
+- Simulate human intelligence
+- Nodes and Links of the supply chain: Value Adding
+	- Warehouses
+	- Stores
+	- Fulfilment centres
+	- Ports
+	- Planes
+	- Trucks
+	- Vehicles
+	- Drones
+	- Operators
+	- Associates
+- AI can alleviate everyday concerns allowing operators etc. to focus more complex supply chain trade-offs
+- Smart assistants that can help workers figure out complex tasks
+	- Advice
+	- Training
+	- Make it easier to transfer knowledge
+- Areas AI can help in
+	- Demand Forecasting
+	- 
 
 
 
