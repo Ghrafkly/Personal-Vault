@@ -73,9 +73,22 @@ https://www.youtube.com/watch?v=nSEAVsbSTIM
 				- Routing
 				- Capacity
 				- Order sizes
+			- Make recommendations
 		- Too many possibilities for humans to consider when planning inventory; 
 			- Millions of options for monitoring, tracking, improving
+				- Risks present in items, stores, import centres; High or Low risk?
 			- AI can process and estimate millions of options quickly
+		- Geographical and Time differences
+		- Unify inventory planners across the organisation
+			- Allow them to focus on things like customer experience
+		- Auditing and Risk management can be handled by AI
+	- **Supplier Management**
+		- Currently
+			- Observing their performance
+			- Finding opportunities for joint value
+			- Changing the way products are received/designed
+			- New product development cycles
+		- 
 
 
 
