@@ -88,7 +88,13 @@ https://www.youtube.com/watch?v=nSEAVsbSTIM
 			- Finding opportunities for joint value
 			- Changing the way products are received/designed
 			- New product development cycles
-		- 
+		- Relationships between suppliers and their clients (i.e. us) is ambiguous
+		- Ai could
+			- Help identify disruptions
+		- Area of opportunity for AI, but difficult to incorporate it into supplier management
+	- **Customer Experience**
+		- AI is currently used extensively
+- Keys f
 
 
 
