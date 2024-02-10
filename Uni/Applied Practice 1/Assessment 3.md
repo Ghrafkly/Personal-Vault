@@ -113,7 +113,21 @@ https://www.youtube.com/watch?v=nSEAVsbSTIM
 - Clear objective, Right Security, Risk Assessments, Contingency Planning
 - People, ethics, transparency, continuous monitoring
 - Common Pitfalls when implementing AI
-	- 
+	- Don't treat Ai as if it knows everything
+	- Don't think you know everything about the AI
+	- AI systems are very complex to implement
+	- Be humble, experiment, don't get carried away
+	- Bring in people who know what they are doing
+	- Start "simple" to ensure the system is performing as the business and customers expect
+- Simple tasks will be automated; Complex tasks will be augmented by AI
+	- Enhance and augment tasks, not replace them
+- Human skills and AI
+	- AI can provide clarity of data to enhance human decision making
+	- Improve meeting efficiency
+	- Unify the business
+		- Same language and decisions
+	- Need to be able to mentor the AI
+	- Allows people to focus on more demanding and complex tasks
 
 
 
