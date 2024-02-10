@@ -49,19 +49,33 @@ https://www.youtube.com/watch?v=nSEAVsbSTIM
 	- Training
 	- Make it easier to transfer knowledge
 - Areas AI can help in
-	- Demand Forecasting
+	- **Demand Forecasting**
 		- Current issues
 			- Uncertainty
 			- Missed forecasts
 			- Inefficiencies
 			- Rebalancing due to wrong forecasts
-		- Process large amounts of current and historical data to create smart forecasts
+		- AI can assist in bettering demand forecasting by developing narrower predictions
+			- Process large amounts of current and historical data to create smart forecasts
 			- Understand connections better than humans
 			- Deal with more data than is humanly possible is a timely manner
 			- Detect problems faster
 			- Plan around holidays (is it on a Monday or Friday), weather patterns
-		- AI can assist in bettering demand forecasting by developing narrower predictions
-	- 
+	- **Inventory Management**
+		- Once the Forecast is created, decisions need to be made about flow
+			- Where is the inventory?
+			- How do you move it?
+			- How do you make trade-offs with limited capacity?
+			- How do you position it?
+		- AI could
+			- Predict safety stocks
+			- Optimised trucks
+				- Routing
+				- Capacity
+				- Order sizes
+		- Too many possibilities for humans to consider when planning inventory; 
+			- Millions of options for monitoring, tracking, improving
+			- AI can process and estimate millions of options quickly
 
 
 
