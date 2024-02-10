@@ -32,6 +32,7 @@ https://throughput.world/blog/ai-in-supply-chain-and-logistics/
 
 https://www.youtube.com/watch?v=nSEAVsbSTIM
 - Simulate human intelligence
+- Narrow AI/ML models to more generic AI systems
 - Nodes and Links of the supply chain: Value Adding
 	- Warehouses
 	- Stores
@@ -94,7 +95,25 @@ https://www.youtube.com/watch?v=nSEAVsbSTIM
 		- Area of opportunity for AI, but difficult to incorporate it into supplier management
 	- **Customer Experience**
 		- AI is currently used extensively
-- Keys f
+- Keys for a successful AI implementation
+	- People first
+		- Humans remain the centre of the business
+	- AI needs to understand the values of the organisation
+		- Treat them as new employee
+	- AI ethics
+		- Ensure they remain on the correct path
+	- Transparency
+		- Not about revealing trade secrets, engine etc.
+		- Stakeholders i.e. clients, customers should be informed about how the AI is utilised
+			- Allow them to provide feedback which the AI can use to improve
+	- Not a deploy and leave solution
+		- Should be monitored continuously
+			- Ensure there are no biases
+		- Should be able to be inspected and audited regularly
+- Clear objective, Right Security, Risk Assessments, Contingency Planning
+- People, ethics, transparency, continuous monitoring
+- Common Pitfalls when implementing AI
+	- 
 
 
 
