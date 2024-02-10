@@ -8,6 +8,9 @@ https://www.youtube.com/watch?v=O79T9yVyEPc — Watched
 - Map strategy to flows
 - Make use of all data
 	- 80% of data is not used
+- Use data that is external to the business
+	- Weather charts
+	- Public sentiment
 
 https://throughput.world/blog/ai-in-supply-chain-and-logistics/
 - Accurate Supply Chain Inventory Management
@@ -47,6 +50,17 @@ https://www.youtube.com/watch?v=nSEAVsbSTIM
 	- Make it easier to transfer knowledge
 - Areas AI can help in
 	- Demand Forecasting
+		- Current issues
+			- Uncertainty
+			- Missed forecasts
+			- Inefficiencies
+			- Rebalancing due to wrong forecasts
+		- Process large amounts of current and historical data to create smart forecasts
+			- Understand connections better than humans
+			- Deal with more data than is humanly possible is a timely manner
+			- Detect problems faster
+			- Plan around holidays (is it on a Monday or Friday), weather patterns
+		- AI can assist in bettering demand forecasting by developing narrower predictions
 	- 
 
 
