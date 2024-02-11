@@ -33,12 +33,21 @@ https://www.youtube.com/watch?v=O79T9yVyEPc
 	- Planning
 	- Manufacturing
 	- etc.
+- Inventory Turns
+- Asset Utilisation
 - Map strategy to flows
-- Make use of all data
-	- 80% of data is not used
-- Use data that is external to the business
-	- Weather charts
-	- Public sentiment
+- Signals that are available but aren't used
+	- transportation
+	- IoT
+	- GPS Data
+	- Map Data
+	- Weather Charts
+	- Public Sentiment
+	- Use these to better solve problems; improve the balance sheet
+		- Minimise exceptions
+		- Improve Reliability
+	- Make use of all data
+		- 80% of the surrounding data is not used
 
 https://throughput.world/blog/ai-in-supply-chain-and-logistics/
 - Accurate Supply Chain Inventory Management
