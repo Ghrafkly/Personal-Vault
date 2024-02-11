@@ -166,5 +166,7 @@ https://www.youtube.com/watch?v=nSEAVsbSTIM
 	- Need to be able to mentor the AI
 	- Allows people to focus on more demanding and complex tasks
 
+https://researchworld.com/articles/possibilities-and-limitations-of-unstructured-data
+- 
 
 
