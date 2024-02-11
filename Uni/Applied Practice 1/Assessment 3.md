@@ -1,4 +1,8 @@
-https://www.youtube.com/watch?v=O79T9yVyEPc — Watched
+https://www.youtube.com/watch?v=O79T9yVyEPc
+- Inside out → Functional
+- Outside in → Using market signals from the channels:
+	- Changing demand to reduce demand latency
+	- Suppliers, looking at issues around pattern recognition with supply irregularities
 - Unified Data model
 - Synchronise planning engines
 	- Promotional
