@@ -3,7 +3,31 @@ https://www.youtube.com/watch?v=O79T9yVyEPc
 - Outside in → Using market signals from the channels:
 	- Changing demand to reduce demand latency
 	- Suppliers, looking at issues around pattern recognition with supply irregularities
-- Unified Data model
+	- Messages from logistics
+	- Delay visibility
+- AI can create/look at deeper insights
+	- Sense, respond, and drive proactive response
+	- Pattern recognition
+		- Channel data
+		- Supplier data
+- Hard to make improvements when the model is wrong
+- Data is growing exponentially
+	- Traditional architectures are unable to make the most of the data
+		- Antiquated techniques i.e. rows/columns
+		- Need to embrace unstructured data., streaming data, image data
+- 9% of companies actively design their supply chain
+	- Form and function of inventory
+	- Postponement strategies
+	- Push/Pull decoupling points
+- Between the Design Layer and Traditional Planning layer needs to be a Unified Data model
+	- Translates design into the optimisation engines
+- Average company has at least 12 planning systems
+	- Not synchronised
+	- Optimisation engine models are not aligned
+		- i.e. Promotion Management, Price Management, and Consumer Products have nothing to do with a data model level, traditional demand planning or CRM to demand planning
+	- AI can synchronise and align
+		- Using supply chain master data
+		- Transactional data
 - Synchronise planning engines
 	- Promotional
 	- Planning
