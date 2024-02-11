@@ -170,4 +170,16 @@ https://researchworld.com/articles/possibilities-and-limitations-of-unstructured
 
 https://dataprot.net/statistics/ai-statistics/
 
+https://www.computer.org/publications/tech-news/trends/ai-revolutionizing-supply-chain
+https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/cognitivesupplychain
+https://www.mckinsey.com/industries/metals-and-mining/our-insights/succeeding-in-the-ai-supply-chain-revolution
+
+https://scoutbee.com/insights/conversational-ai-how-procurement-is-taking-an-old-idea-to-a-new-level-in-2024/
+https://scoutbee.com/ai-in-procurement/
+
+https://aiexpert.network/case-study-walmarts-ai-enhanced-supply-chain-operations/
+
+https://scoutbee.com/resources/case-studies/how-scoutbee-s-ai-powered-supplier-scouting-found-59-new-suppliers-for-siemens-energy-in-just-4-weeks/
+https://scoutbee.com/resources/case-studies/how-scoutbee-s-ai-powered-supplier-scouting-helps-siemens-procurement-reduce-time-and-workload/
+
 
