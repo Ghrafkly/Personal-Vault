@@ -167,6 +167,7 @@ https://www.youtube.com/watch?v=nSEAVsbSTIM
 	- Allows people to focus on more demanding and complex tasks
 
 https://researchworld.com/articles/possibilities-and-limitations-of-unstructured-data
-- 
+
+https://dataprot.net/statistics/ai-statistics/
 
 
