@@ -43,7 +43,7 @@
               "state": {
                 "file": "Personal/House/Check out.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Check out"
@@ -258,8 +258,8 @@
   "active": "b29a61e402898dda",
   "lastOpenFiles": [
     "Personal/House/Requirements.md",
-    "Personal/Code/Go/Goroutines.md",
     "Personal/House/Check out.md",
+    "Personal/Code/Go/Goroutines.md",
     "Personal/Code/Go/Channels.md",
     "Personal/House/Mortgage Brokers.md",
     "Personal/Family/Dad/Rovers Life Nom.md",
