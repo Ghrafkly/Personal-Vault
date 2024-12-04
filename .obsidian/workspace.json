@@ -28,9 +28,19 @@
                 "currentVersion": "1.5.12"
               }
             }
+          },
+          {
+            "id": "a076a82f485d80b5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,7 +223,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea448d510ff69eca",
+  "active": "a076a82f485d80b5",
   "lastOpenFiles": [
     "Uni/Applied Practice 1/Assessment 2.md",
     "Uni/Applied Practice 1/Assessment 3.md",
