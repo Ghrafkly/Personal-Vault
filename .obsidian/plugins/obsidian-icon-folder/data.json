@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasWaterLadder",
       "FasUserGroup",
       "LiGripHorizontal",
       "TiNote",
-      "FasHouseChimney",
-      "CiGopher-colour"
+      "FasHouseChimney"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,6 @@
     "iconName": null,
     "inheritanceIcon": "LiImage"
   },
-  "Personal/House": "FasHouseChimney"
+  "Personal/House": "FasHouseChimney",
+  "Personal/Scuba Diving": "FasWaterLadder"
 }
